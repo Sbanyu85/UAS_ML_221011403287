@@ -1,11 +1,7 @@
-# UAS_ML_221011403287
-
 # Sistem Fuzzy Logic untuk Kontrol Kecepatan Kipas AC
-## Universitas Pamulang - 2025
+### Universitas Pamulang - 2025
 
-## Banyu Santoso
-## 221011403287
-## 05TPLE016
+<img width="613" alt="Screenshot 2025-01-09 at 22 20 17" src="https://github.com/user-attachments/assets/7dab0621-b848-44f3-954e-7d3044e7ef8f" />
 
 ### 1. Pendahuluan
 - **Tujuan Sistem**: Mengontrol kecepatan kipas AC secara otomatis
@@ -59,13 +55,23 @@
 - Matplotlib: Untuk visualisasi
 
 #### B. Fitur Sistem
+
 1. **Input Interface**
    - Field untuk memasukkan suhu ruangan
    - Field untuk memasukkan tingkat kenyamanan
 
+<img width="277" alt="Screenshot 2025-01-09 at 22 13 38" src="https://github.com/user-attachments/assets/f169efcc-0c72-4997-8ac1-fa734c0fbdd8" />
+
+<img width="278" alt="Screenshot 2025-01-09 at 22 13 58" src="https://github.com/user-attachments/assets/ca20d127-f881-4f40-84ae-5a56bd3b1f43" />
+
+<img width="278" alt="Screenshot 2025-01-09 at 22 14 09" src="https://github.com/user-attachments/assets/1339d183-e4b7-4ac5-a78a-524128312c22" />
+
 2. **Output Display**
    - Menampilkan hasil perhitungan kecepatan kipas
    - Visualisasi kurva keanggotaan
+
+![image](https://github.com/user-attachments/assets/87460797-a4c8-43c3-9864-6beadab701a6)
+
 
 ### 5. Cara Penggunaan Sistem
 
@@ -87,14 +93,3 @@
 - Total 9 aturan fuzzy untuk pengambilan keputusan
 - Implementasi menggunakan Python dengan GUI
 - Visualisasi memudahkan pemahaman sistem
-
-<img width="277" alt="Screenshot 2025-01-09 at 22 13 38" src="https://github.com/user-attachments/assets/fe124541-828c-4030-b107-8e6f27cb6df3" />
-
-<img width="278" alt="Screenshot 2025-01-09 at 22 14 09" src="https://github.com/user-attachments/assets/1339d183-e4b7-4ac5-a78a-524128312c22" />
-
-<img width="278" alt="Screenshot 2025-01-09 at 22 13 58" src="https://github.com/user-attachments/assets/ca20d127-f881-4f40-84ae-5a56bd3b1f43" />
-
-<img width="277" alt="Screenshot 2025-01-09 at 22 13 38" src="https://github.com/user-attachments/assets/f169efcc-0c72-4997-8ac1-fa734c0fbdd8" />
-
-
-![image](https://github.com/user-attachments/assets/87460797-a4c8-43c3-9864-6beadab701a6)
